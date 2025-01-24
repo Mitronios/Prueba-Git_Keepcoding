@@ -51,7 +51,11 @@
    >
    > `git reset HEAD~1`
 9. ¿Qué comando o comandos utilizaste en el paso 28?
+
+   > Utilicé el comando `git reset --hard HEAD` para descartar los cambios del paso 28.
+
 10. ¿Qué comando o comandos utilizaste en el paso 29?
+    > El comando que utilicé fue:
 11. ¿Qué comando o comandos utilizaste en el paso 30?
 12. ¿Qué comando o comandos usaste en el paso 32?
 13. ¿Qué comando o comandos usaste en el punto 33?
