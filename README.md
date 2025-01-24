@@ -55,7 +55,13 @@
    > Utilicé el comando `git reset --hard HEAD` para descartar los cambios del paso 28.
 
 10. ¿Qué comando o comandos utilizaste en el paso 29?
-    > El comando que utilicé fue:
+
+    > El comando que utilicé fue: `git branch -D title`
+
 11. ¿Qué comando o comandos utilizaste en el paso 30?
+
+    > Utilicé el comando: `git reflog` para encontrar el identificador del merge y luego `git checkout cc61716` para rehacer el merge.
+
 12. ¿Qué comando o comandos usaste en el paso 32?
+    > Utilicé
 13. ¿Qué comando o comandos usaste en el punto 33?
