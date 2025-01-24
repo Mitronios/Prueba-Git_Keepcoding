@@ -27,10 +27,19 @@
    > Se resolvió quedándonos con el contenido de la rama 'styled' y descartando los cambios que llegaban de 'htmlify'.
 
 5. El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
+
    > No causó ningún conflicto porque los archivos no se modificaron en las mismas líneas es decir en una misma línea no existían diferencias entre ambos archivos.
    >
    > Fue un merge fast forward.
+
 6. ¿Qué comando o comandos utilizaste en el paso 25?
+   > Se utilizó el comando: `git log --graph --decorate --pretty=oneline`.
+   >
+   > También se puede simplificar configurando el comando de la siguiente manera:
+   >
+   > `git config alias.graph "log --graph --decorate --pretty=oneline`
+   >
+   > De esta forma bastaría con ejecutar git graph.
 7. El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 8. ¿Qué comando o comandos utilizaste en el paso 27?
 9. ¿Qué comando o comandos utilizaste en el paso 28?
