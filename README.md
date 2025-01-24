@@ -3,6 +3,7 @@
 ## Preguntas sobre un flujo de trabajo de Git
 
 1. ¿Qué comando utilizaste en el paso 11? ¿Por qué?
+   > Utilicé el comando: `git reset --hard~1`.
 2. ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 3. El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 4. El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
