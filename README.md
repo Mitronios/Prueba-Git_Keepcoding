@@ -22,9 +22,14 @@
 
 4. El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 
-   > Causó un conflicto que me pedía comparar los cambios y unificarlos, porque modificaba un mismo archivo sobreescribiendo las líneas que estaban en 'styled', se resolvió quedándonos con el contenido de la rama 'styled' y descartando los cambios que llegaban de 'htmlify'.
+   > Causó un conflicto que me pedía comparar los cambios y unificarlos, esto pasó porque modificaba un mismo archivo sobreescribiendo las líneas que estaban en 'styled', es decir lás líneas modificadas contenían un texto diferente.
+   >
+   > Se resolvió quedándonos con el contenido de la rama 'styled' y descartando los cambios que llegaban de 'htmlify'.
 
 5. El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
+   > No causó ningún conflicto porque los archivos no se modificaron en las mismas líneas es decir en una misma línea no existían diferencias entre ambos archivos.
+   >
+   > Fue un merge fast forward.
 6. ¿Qué comando o comandos utilizaste en el paso 25?
 7. El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 8. ¿Qué comando o comandos utilizaste en el paso 27?
