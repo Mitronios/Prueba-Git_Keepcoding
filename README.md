@@ -63,5 +63,8 @@
     > Utilicé el comando: `git reflog` para encontrar el identificador del merge y luego `git checkout cc61716` para rehacer el merge.
 
 12. ¿Qué comando o comandos usaste en el paso 32?
-    > Utilicé
+
+    > Utilicé el comando: `git reflog` para encontrar el identificador del merge y luego `git checkout 12fc6d1` para rehacer el merge.
+
 13. ¿Qué comando o comandos usaste en el punto 33?
+    > Utilicé el comando: `git reflog` para encontrar el identificador del merge y luego `git checkout cc61716` para rehacer el merge.
