@@ -4,6 +4,7 @@
 
 1. ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 2. ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+   > Utilicé el comando: `git reflog` para obtener el identificador del último commit, luego `git reset --hard a9b2745` para moverme a ese commit.
 3. El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 4. El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 5. El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
