@@ -33,6 +33,7 @@
    > Fue un merge fast forward.
 
 6. ¿Qué comando o comandos utilizaste en el paso 25?
+
    > Se utilizó el comando: `git log --graph --decorate --pretty=oneline`.
    >
    > También se puede simplificar configurando el comando de la siguiente manera:
@@ -40,8 +41,15 @@
    > `git config alias.graph "log --graph --decorate --pretty=oneline`
    >
    > De esta forma bastaría con ejecutar git graph.
+
 7. El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
+
+   > Podría ser fast forward debido a que la rama title es hija directa de la rama main y puede ser absorbida.
+
 8. ¿Qué comando o comandos utilizaste en el paso 27?
+   > El comando para deshacer el merge y mantener el working copy fue:
+   >
+   > `git reset HEAD~1`
 9. ¿Qué comando o comandos utilizaste en el paso 28?
 10. ¿Qué comando o comandos utilizaste en el paso 29?
 11. ¿Qué comando o comandos utilizaste en el paso 30?
